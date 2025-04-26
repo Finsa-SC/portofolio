@@ -1,3 +1,16 @@
+<h1 align="center">
+  Hi there~ I'm <span style="color:#00C4FF;">Finsa Kusuma Putra</span> ✨
+</h1>
+
+<p align="center">
+  💻 Vocational High School Student | 👾 AI & Software Dev Enthusiast <br>
+  🚀 Turning Ideas into Reality, One Project at a Time!
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+</p>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00C4FF, #FF6BD6);" />
+
 # About Me
 
 👋 Hi, I'm **Finsa Kusuma Putra** — a vocational high school student specializing in software and game development. 
