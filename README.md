@@ -41,6 +41,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoWidth=40)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=40)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+![Pillow](https://img.shields.io/badge/Pillow-07405E?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![Face Recognition](https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 
 ### Web & API Frameworks
@@ -62,6 +64,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=40)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&logoWidth=40)
 ![Ollama](https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=40)
 
 ### Areas of Expertise
 - Machine Learning & AI
@@ -107,5 +110,7 @@
 </div>
 
 ## Projects
-- **Virtual Assistant** – Assistant for Windows. [Repository](https://github.com/Finsa-SC/Virtual-Assistans)
+- **Frozen Lake AI** – Reinforcement Learning Agent [Repository](https://github.com/Finsa-SC/FrozenLake)
 - **Github Auto Uploader** - Auto Upload Project to Github Without manual commit. [Repository](https://github.com/Finsa-SC/-AutoGitHub-Uploader-)
+- **Note Book** – Note Book with local API [Repository](https://github.com/Finsa-SC/Note-Book-With-API)
+- **Hashing** – a kind of hashing technique [Repository](https://github.com/Finsa-SC/Hashing)
